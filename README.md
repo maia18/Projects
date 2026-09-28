@@ -8,8 +8,8 @@ O objetivo é manter um registro centralizado da minha evolução técnica, faci
 
 O repositório está organizado nas seguintes categorias principais:
 
-- 📁 **Desafios_cursos/**: Resoluções de desafios de código, projetos práticos e trilhas de bootcamps realizados na plataformas de cursos.
-- 📁 **Cursos_Extracurriculares/**: Projetos e anotações de outros cursos de formação, desenvolvimento profissional e gestão.
+- 📁 **Cursos/**: Resoluções de desafios de código, projetos práticos e trilhas de bootcamps realizados na plataformas de cursos.
+- 📁 **Extracurriculares/**: Projetos e anotações de outros cursos de formação, desenvolvimento profissional e gestão.
 - 📁 **Projetos_Academicos/**: 
   - *Eletromagnetismo_Aplicado*: Simulações de propagação de ondas e animações (Python/VPython).
   - *Microeletronica_e_Circuitos*: Análises de componentes e modelos.
